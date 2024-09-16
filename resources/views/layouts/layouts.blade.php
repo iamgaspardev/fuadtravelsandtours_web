@@ -28,6 +28,27 @@
 
     <!-- Main CSS File -->
     <link href="{{ asset('assets/css/main.css') }}" rel="stylesheet">
+    <style>
+        .whatsapp-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            background-color: #25D366;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .whatsapp-button img {
+            width: 40px;
+            height: 40px;
+        }
+    </style>
 
 </head>
 
@@ -116,7 +137,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
             </div>
             <div class="toast-body">
-                Thanks for showing interest in Fuad Travels and Tours! We'll get back to you soon.
+                Thanks for showing interest in Fuad Travel and Tours! We'll get back to you soon.
             </div>
         </div>
     </div>
@@ -188,7 +209,10 @@
     <!-- Scroll Top -->
     <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
             class="bi bi-arrow-up-short"></i></a>
-
+    <!-- WhatsApp Button -->
+    <a href="https://wa.me/+255763111106" class="whatsapp-button" target="_blank" title="Chat with us on WhatsApp">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Chat">
+    </a>
 
 
     <!-- Vendor JS Files -->

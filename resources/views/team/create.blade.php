@@ -5,8 +5,8 @@
         <div class="row justify-content-center">
             <div class="mb-1"></div>
             <div class="col-lg-9 text-center justify-content-center">
-                <h3>Upload <span>Fuad Travels and Tours Team Member</span> !</h3>
-                <p>User can Explore the world with Fuad Travels and Tours Tours - Please upload Team Members of Fuad Travels
+                <h3>Upload <span>Fuad Travel and Tours Team Member</span> !</h3>
+                <p>User can Explore the world with Fuad Travel and Tours Tours - Please upload Team Members of Fuad Travel
                     and
                     Tours Tours</p>
             </div>

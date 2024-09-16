@@ -7,8 +7,8 @@
 
                 <div class="row mt-8 justify-content-center" data-aos="fade-up">
                     <div class="col-lg-9 text-center justify-content-center">
-                        <h3>Fuad Travels and Tours <span>Admin Panels</span> !</h3>
-                        <p>User can Explore the world with Fuad Travels and Tours - Please upload Tours to be seen by
+                        <h3>Fuad Travel and Tours <span>Admin Panels</span> !</h3>
+                        <p>User can Explore the world with Fuad Travel and Tours - Please upload Tours to be seen by
                             clients by
                             attaching image or Poster of the tours area</p>
                     </div>

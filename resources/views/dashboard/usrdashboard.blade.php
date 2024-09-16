@@ -15,8 +15,8 @@
                     </div>
                     <div class="col-lg-3 cta-btn-container text-center">
                         <a class="cta-btn align-middle" href="/consultations"
-                            style="background-image: linear-gradient(to right, red, rgb(14, 14, 147)); color: white;">Discover
-                            Our Services</a>
+                            style="background-image: linear-gradient(to right, red, rgb(14, 14, 147)); color: white;">View
+                            Messages Consultations</a>
                     </div>
                 </div>
 

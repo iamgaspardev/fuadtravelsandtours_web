@@ -4,7 +4,7 @@
         <div class="container section-title" data-aos="fade-up">
             <span>About Us<br></span>
             <h2>About </h2>
-            <p>Your gateway to the world, providing exceptional travel and investment opportunities. At Fuad Travels and
+            <p>Your gateway to the world, providing exceptional travel and investment opportunities. At Fuad Travel and
                 Tours, we
                 believe in making every journey a seamless and enriching experience. From assisting with complex visa
                 processes to
@@ -24,12 +24,12 @@
 
             <div class="row gy-4">
                 <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-                    <img src="assets/img/about.png" class="img-fluid" height="200" alt="About Fuad Travels and Tours">
+                    <img src="assets/img/about.png" class="img-fluid" height="200" alt="About Fuad Travel and Tours">
                 </div>
                 <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                     <h3>Your Trusted Partner in Travel and Investment</h3>
                     <p class="fst-italic">
-                        At Fuad Travels and Tours, we are committed to providing exceptional services that make your
+                        At Fuad Travel and Tours, we are committed to providing exceptional services that make your
                         travel and
                         investment dreams a reality.
                     </p>
@@ -69,7 +69,7 @@
                         of professionalism and attention to detail. Whether you are traveling for leisure or business,
                         or looking
                         for
-                        investment opportunities, Fuad Travels and Tours is your trusted partner every step of the way.
+                        investment opportunities, Fuad Travel and Tours is your trusted partner every step of the way.
                     </p>
                 </div>
             </div>

@@ -5,7 +5,7 @@
         <div class="container section-title" data-aos="fade-up">
             <span>Customers Says</span>
             <h2>Review from Customers</h2>
-            <p>Look the review from our valuable customers saved by Fuad Travels and Tours Company LTD , <br>Do you wish to
+            <p>Look the review from our valuable customers saved by Fuad Travel and Tours Company LTD , <br>Do you wish to
                 be
                 the part of our valuable review !</p>
         </div><!-- End Section Title -->

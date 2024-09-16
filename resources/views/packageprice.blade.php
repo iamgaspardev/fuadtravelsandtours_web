@@ -18,7 +18,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
-                        <h1>Invest with Us Fuad Travels and Tours </h1>
+                        <h1>Invest with Us Fuad Travel and Tours </h1>
                         <p>Looking to enhance your financial portfolio? Explore the lucrative investment opportunities
                             offered by Fuad Tours and Travels. With our company investment options, anyone can diversify
                             their
@@ -49,7 +49,7 @@
                     <div class="col-xl-10">
                         <div class="text-center">
                             <h3>Ready to Explore the World?</h3>
-                            <p>Take the first step towards your next adventure with Fuad Travels and Tours. Whether you're
+                            <p>Take the first step towards your next adventure with Fuad Travel and Tours. Whether you're
                                 planning a
                                 dream vacation, a business trip, or seeking new investment opportunities, we're here to make
                                 it happen.
@@ -73,7 +73,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="card shadow rounded bg-white p-4">
-                            <h2>Investment Opportunities by Airfox Tours</h2>
+                            <h2>Investment Opportunities by Fuad Travel and Tours</h2>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">Exclusive travel packages</li>
                                 <li class="list-group-item">Customized tour plans</li>
