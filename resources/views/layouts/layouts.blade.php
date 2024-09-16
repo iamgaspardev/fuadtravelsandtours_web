@@ -105,6 +105,8 @@
                         </li>
                         <li><a href="/contact">Contact</a></li>
                         <li><a href="/testmonials">Testimonials</a></li>
+                        <li><a href="/blog">Blog</a></li>
+
                     @endauth
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -157,7 +159,7 @@
                         <p>Mwanamboka Plaza, First Floor, Plot No: 31 B, Morocco Road/ Kawawa Road, Dar es Salaam,
                             Tanzania•</p>
                         <p class="mt-3"><strong>Phone:</strong> <span>+255 761 555 535</span></p>
-                        <p><strong>Email:</strong> <span>info@fuadtravelsandtours.com</span></p>
+                        <p><strong>Email:</strong> <span>info@fuadtravelandtours.com</span></p>
                     </div>
                 </div>
 
