@@ -383,23 +383,6 @@
 
         </section>
 
-        <!-- ======= Our Team Section ======= -->
-        <section id="team" class="team ">
-            <div class="container">
-
-                <div class="section-title" data-aos="fade-up">
-                    <h2>Meet Our <strong>Team</strong></h2>
-                    <hr class="title-line">
-                    <p>Meet the Driving Force Behind Airfox Tours: <b style="color:red"> <i>Our Dedicated Team!</i></b>
-                        At Airfox Tours, we take pride in our diverse and talented team. Together, we are committed to
-                        providing you with exceptional travel experiences. Get to know the faces behind the scenes!</p>
-                </div>
-
-                <div class="row">
-                    @include('team-members', ['teamMembers' => $teamMembers])
-                </div>
-            </div>
-        </section><!-- End Our Team Section -->
 
 
         <!-- Call To Action Section -->
